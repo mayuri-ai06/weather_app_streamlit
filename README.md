@@ -16,6 +16,8 @@ User-friendly interface using Streamlit.
 
 ![image alt] (https://github.com/mayuri-ai06/weather_app_streamlit/blob/main/weather%20app%202.png?raw=true)
 
+![image alt] (https://github.com/mayuri-ai06/weather_app_streamlit/blob/main/weather%20app.png?raw=true)
+
 How to Use
 
 Clone the repository:
