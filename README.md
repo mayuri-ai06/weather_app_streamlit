@@ -13,7 +13,7 @@ Displays:
 💧 Humidity
 
 User-friendly interface using Streamlit.
-![Weather App Screenshot] (https://github.com/mayuri-ai06/weather_app_streamlit/blob/main/weather%20app.png?raw=true)
+
 
 How to Use
 
